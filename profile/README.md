@@ -27,11 +27,7 @@ The Felicity FrontEnd, which powers the user interface, is developed using Vue.j
 
 ## Contributing
 
-We welcome contributions from the open-source community to enhance and improve Felicity Labs.
-
-## License
-
-Felicity Labs is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the software according to the terms of the license.
+We welcome contributions from the open-source community to enhance and improve Felicity Labs. Find a repository of your choice and lets get cracking.
 
 ## Contact
 
