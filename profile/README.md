@@ -1,36 +1,25 @@
-# Felicity Labs
+# Beak Insights
 
-Welcome to the Felicity Labs! Felicity Labs is a next-generation open-source Laboratory Information Management System (LIMS) designed specifically for clinical and medical laboratories. 
-Our goal is to provide a comprehensive solution that enables efficient tracking and management of laboratory workflows, ensuring accurate data capture and facilitating informed decision-making.
+Welcome to the Beak Insights! Beak Insights is a cutting-edge data design and development firm committed to transforming raw data into actionable insights. With a keen focus on precision and innovation, we haness the power of data to drive informed decision making for businesses across diverse industries.
 
-## Description
+## Our Expertise
 
-Felicity LIMS is a powerful and versatile LIMS that encompasses the entire laboratory workflow, offering a wide range of functionalities. Our system is designed to support the seamless flow of samples and 
-associated experimental data throughout the laboratory, ultimately generating valuable information used for critical conclusions and decisions.
+1. **Data Design**: We specialise in crafting robust and intuitive data architectures tailored to meet unique needs of our clients. Our design solutions ensure seamless integration, scalability, and optimal performance.
+2. **Development Services**: Beak Insights excels in developing customised data solutions ranging from sophisticated algorithms to user-friendly applications. Our team is adept at leveraging the latest technologies to bring your data projects to life.
+3. **Insightful Analytics**: Unlock the full potential of your data with our advanced analytics services. From predictive modelling to data visualisation, we provide comprehensive insights that empower you to make informed decisions and gain competitive edge.
 
-With Felicity LIMS, clinical laboratory personnel can easily capture essential metadata and track the lifecycle of biospecimens from receipt to dispatch. Our system ensures that all necessary information is recorded, 
-promoting data integrity and enhancing the overall efficiency of laboratory operations.
+## Why Chose beak Insights
 
-The Felicity FrontEnd, which powers the user interface, is developed using Vue.js, URQL, and Tailwind CSS, providing a modern and intuitive experience for users.
-
-## Main Features
-
-- **Dashboard:** Get an overview of key metrics and activities within the laboratory.
-- **Patient:** Manage patient information, including listing, compact view, detailed view, search functionality, and audit logs.
-- **Sample:** Track samples throughout their lifecycle, with features such as listing, detailed view, audit logs, reports, and search capabilities.
-- **Worksheet:** Utilize templates for standardized workflows, automatically create worksheets, support batch creation, and allow manual worksheet creation.
-- **Inventory:** Manage laboratory inventory items, including item management, listing, detailed view, transactions, adjustments, orders, and requests.
-- **Shipment:** Experimental FHIR integration for shipment management, including listing, detailed view, and tracking.
-- **Storage:** Organize storage rooms, locations, and containers, and utilize templates for efficient storage management.
-- **Admin:** Perform administrative functions and manage system settings.
-- **Client:** Maintain a client database, including listing, detailed view, and contact information.
+- **Innvation**: We stay at the forefront ot technology to deliver innovative and future-proof solutions.
+- **Reliability**: Clients trust us for our commitment to delivering high-quality, reliable, and scalable data solutions.
+- **Client-Centric-Approach**: We prioritize understanding our client's unique challenges, ensuring our solutions align perfectly with their business objectives. 
 
 ## Contributing
 
-We welcome contributions from the open-source community to enhance and improve Felicity Labs. Find a repository of your choice and lets get cracking.
+We welcome contributions from the open-source community to enhance and improve Beak Insights systems. Find a repository of your choice and lets get cracking.
 
 ## Contact
 
-For any inquiries or questions about Felicity Labs, please reach out to our team at [aurthurmusendame@gmail.com](mailto:aurthurmusendame@gmail.com). We value your feedback and look forward to hearing from you!
+For any inquiries or questions about Beak Insights, please reach out to our team at [aurthurmusendame@gmail.com](mailto:aurthurmusendame@gmail.com). We value your feedback and look forward to hearing from you!
 
-Thank you for your interest in Felicity Labs. We hope our LIMS will revolutionize laboratory management and contribute to advancements in clinical and medical research.
+Thank you for your interest in Beak Insights.
