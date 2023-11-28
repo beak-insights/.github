@@ -1,6 +1,6 @@
 # Beak Insights
 
-Welcome to the Beak Insights! Beak Insights is a cutting-edge data design and development firm committed to transforming raw data into actionable insights. With a keen focus on precision and innovation, we haness the power of data to drive informed decision making for businesses across diverse industries.
+Welcome to the Beak Insights! Beak Insights is a cutting-edge data design and development firm committed to transforming raw data into actionable insights. With a keen focus on precision and innovation, we harness the power of data to drive informed decision making for businesses across diverse industries.
 
 ## Our Expertise
 
